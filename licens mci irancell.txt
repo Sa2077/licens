@@ -1,0 +1,2 @@
+warp://C76D41Nb-54jhoS08-68lBWP40@162.159.192.103:878?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.103:878?ifp=10-20&ifps=20-60&ifp=5-10#Germany
+warp://C76D41Nb-54jhoS08-68lBWP40@[2606:4700:d0::296d:ee3a:a1dd:52fa]:894?ifp=10-20&ifps=20-60&ifp=5-10#Iran&&detour=warp://162.159.192.52:946?ifp=10-20&ifps=20-60&ifp=5-10#Germany
